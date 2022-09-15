@@ -133,8 +133,13 @@ img {
     .row{
         flex-direction: column;
     }
+    .container{
+        width: 100%;
+    }
+    .lessons .col{
+        width: 100%;
+        padding: 1rem;
+    }
     
-    
-    
-  
+
  }
