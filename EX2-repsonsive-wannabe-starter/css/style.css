@@ -147,6 +147,10 @@ img {
      .why-us .col-right {
         width: 100%;
      }
+     .steps .col {
+        width: calc(100% / 1);
+        padding-bottom: 1rem;
+    }
  }
 
  
