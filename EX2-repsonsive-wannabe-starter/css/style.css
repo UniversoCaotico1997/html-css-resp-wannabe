@@ -147,10 +147,18 @@ img {
      .why-us .col-right {
         width: 100%;
      }
+     .why-us {
+        background-color: black;
+        margin: 0px;
+    }
      .steps .col {
         width: calc(100% / 1);
         padding-bottom: 1rem;
     }
+    .steps{
+        margin: 0;
+    }
+    
  }
 
  @media screen and (max-width: 768px) {
