@@ -136,10 +136,17 @@ img {
     .container{
         width: 100%;
     }
+    
     .lessons .col{
         width: 100%;
         padding: 1rem;
     }
-    
-
+     .why-us .col-left {
+        width: 100%;
+    } 
+     .why-us .col-right {
+        width: 100%;
+     }
  }
+
+ 
